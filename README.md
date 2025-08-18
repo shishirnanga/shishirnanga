@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I’m Shishir 👋
+Entry-level Data Scientist & Engineer focused on experiments, LLM apps, and reliable data systems.
 
-<!--
-**shishirnanga/shishirnanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Highlights**
+- LLM strategy assistant (Streamlit + RAG) that turns raw dashboards & A/B tests into insights
+- Product analytics pipeline: event → warehouse → KPI metrics (DAU, retention, funnels)
+- Data quality validation & streaming pipeline debugging projects
 
-Here are some ideas to get you started:
+**Projects (Pinned)**
+- AutoAdvisor – LLM+Streamlit app for product insights
+- User Analytics Dashboard – ETL + star schema + KPI dashboards
+- Clean Water Monitor – data viz on water scarcity & GDP
+- LittleLemon Booking – SQL schema + Tableau visualizations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [LinkedIn](www.linkedin.com/in/shishir-nanga) | 🌐 [Portfolio Website](your-website-link)
