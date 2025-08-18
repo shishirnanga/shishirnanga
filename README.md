@@ -12,5 +12,5 @@ Entry-level Data Scientist & Software Engineer focused on experiments, LLM apps,
 - [Clean Water Monitor](https://github.com/shishirnanga/clean-water-scarcity-monitor)
 - [LittleLemon Booking System](https://github.com/shishirnanga/LittleLemon-BookingSystem)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/shishir-nanga) | 🌐 [Portfolio Website](https://yourwebsite.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/shishir-nanga) | 🌐 [Portfolio Website](https://shishirnanga.github.io/)
 
