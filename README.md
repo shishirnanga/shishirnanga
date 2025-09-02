@@ -2,8 +2,8 @@
 Entry-level Data Scientist & Software Engineer focused on experiments, LLM apps, and reliable data systems.
 
 **Highlights**
-- Built AutoAdvisor — an LLM-powered Streamlit app that turns A/B test data, dashboards, and feedback into insights
-- Designed a product analytics pipeline: event data → star schema → KPIs (DAU, retention, funnels)
+- Built AutoAdvisor: an LLM-powered Streamlit app that turns A/B test data, dashboards, and feedback into insights
+- Designed a product analytics pipeline: event data -> star schema -> KPIs (DAU, retention, funnels)
 - Developed data quality validation and streaming pipeline debugging tools
 
 **Pinned Projects**
